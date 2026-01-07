@@ -57,8 +57,8 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://www.libreoffice.org/" target="_blank" rel="noopener">LibreOffice</a></h3>
-    <p><strong>分類：</strong> 辦公室套件</p>
-    <p>一款開源辦公室套件，專為文件建立、編輯和協作而設計，提供離線功能。</p>
+    <p><strong>分類：</strong> 文書處理軟體</p>
+    <p>一款開源文書處理軟體，專為文件建立、編輯和協作而設計，提供離線功能。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⯪☆ (3.94)</p>
     <a href="../categories/office-suite/libreoffice/" class="tool-details-link md-button">詳細資訊</a>
 </div>
@@ -73,7 +73,7 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://github.com/jvoisin/mat2" target="_blank" rel="noopener">MAT2</a></h3>
-    <p><strong>分類：</strong> 資料和中繼資料編輯</p>
+    <p><strong>分類：</strong> 資料與中繼資料清除</p>
     <p>Mat2（中繼資料匿名化工具組）旨在從檔案和文件中移除中繼資料，以保護使用者的隱私。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⯪☆ (3.83)</p>
     <a href="../categories/data-&-metadata-redaction/mat2/" class="tool-details-link md-button">詳細資訊</a>
@@ -81,7 +81,7 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://notesnook.com/" target="_blank" rel="noopener">Notesnook</a></h3>
-    <p><strong>分類：</strong> 筆記本</p>
+    <p><strong>分類：</strong> 記事本</p>
     <p>筆記應用程式，提供端到端加密，旨在取代主流應用程式，而不會損害使用者隱私。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐⯪ (4.29)</p>
     <a href="../categories/notebooks/notesnook/" class="tool-details-link md-button">詳細資訊</a>
@@ -89,7 +89,7 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://ollama.com/" target="_blank" rel="noopener">Ollama</a></h3>
-    <p><strong>分類：</strong> 人工智慧聊天</p>
+    <p><strong>分類：</strong> AI 對話</p>
     <p>在個人電腦上本機端運行大型語言模型，以提供私密、離線的人工智慧協助。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐☆ (4.05)</p>
     <a href="../categories/ai-chat/ollama/" class="tool-details-link md-button">詳細資訊</a>
@@ -97,16 +97,16 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://www.onlyoffice.com/" target="_blank" rel="noopener">ONLYOFFICE</a></h3>
-    <p><strong>分類：</strong> 辦公室套件</p>
-    <p>一款開源辦公室套件，專為文件建立、編輯和協作而設計，包括全面的文件管理功能。</p>
+    <p><strong>分類：</strong> 文書處理軟體</p>
+    <p>一款開源文書處理軟體，專為文件建立、編輯和協作而設計，包括全面的文件管理功能。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐☆ (4.21)</p>
     <a href="../categories/office-suite/onlyoffice/" class="tool-details-link md-button">詳細資訊</a>
 </div>
 
 <div class="tool-card">
     <h3><a href="https://privatebin.info/" target="_blank" rel="noopener">PrivateBin</a></h3>
-    <p><strong>分類：</strong> 貼上箱</p>
-    <p>PrivateBin 是一款極簡的開源線上貼上箱，伺服器對貼上的資料零知識。</p>
+    <p><strong>分類：</strong> 線上剪貼簿</p>
+    <p>PrivateBin 是一款極簡的開源線上剪貼簿，伺服器對貼上的資料零知識。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐☆ (4.18)</p>
     <a href="../categories/pastebins/privatebin/" class="tool-details-link md-button">詳細資訊</a>
 </div>
@@ -145,7 +145,7 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://standardnotes.com/" target="_blank" rel="noopener">Standard Notes</a></h3>
-    <p><strong>分類：</strong> 筆記本</p>
+    <p><strong>分類：</strong> 記事本</p>
     <p>免費、安全的筆記應用程式，具有端到端加密和隱私功能，提供離線功能和最少的資料收集。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐⯪ (3.61)</p>
     <a href="../categories/notebooks/standard-notes/" class="tool-details-link md-button">詳細資訊</a>
@@ -153,7 +153,7 @@ hide:
 
 <div class="tool-card">
     <h3><a href="https://www.thunderbird.net/en-US/" target="_blank" rel="noopener">ThunderBird</a></h3>
-    <p><strong>分類：</strong> 電子郵件客戶端</p>
+    <p><strong>分類：</strong> 電子郵件軟體</p>
     <p>Thunderbird 是由 Mozilla 開發的一款開源電子郵件應用程式，用於管理多個電子郵件帳戶，具有強大的隱私保護、PGP 加密和附加元件擴充性。</p>
     <p><strong>整體評分：</strong> ⭐⭐⭐⭐⯪ (4.29)</p>
     <a href="../categories/email-clients/thunderbird/" class="tool-details-link md-button">詳細資訊</a>
