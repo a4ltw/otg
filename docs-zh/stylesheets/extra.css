@@ -171,3 +171,45 @@ div.grid.cards > ul > li > p:first-child {
         min-width: 100px;
     }
 }
+
+/* Star rating compatibility - ensure proper font fallback for star symbols */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Noto Sans", "Noto Sans Symbols 2", "Apple Color Emoji",
+               "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+
+/* Star rating display - for future HTML/CSS implementation */
+.star-rating {
+  display: inline-block;
+  font-size: 1.2em;
+  line-height: 1;
+  color: #FFD700;
+}
+
+.star-full::before {
+  content: "⭐";
+}
+
+.star-half {
+  position: relative;
+  display: inline-block;
+}
+
+.star-half::before {
+  content: "☆";
+  color: #FFD700;
+}
+
+.star-half::after {
+  content: "⭐";
+  position: absolute;
+  left: 0;
+  width: 50%;
+  overflow: hidden;
+}
+
+.star-empty::before {
+  content: "☆";
+  color: #FFD700;
+}
